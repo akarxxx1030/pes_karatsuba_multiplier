@@ -1,0 +1,180 @@
+Reading OpenROAD database at '/content/openlane_run/6-openroad-generatepdn/spm.odb'…
+Reading library file at '/content/openlane_run/tmp/e6ad2c8168094a51b03dd78aa3c31964.lib'…
+Reading design constraints file at '/content/openlane/scripts/base.sdc'…
+[INFO] Using clock clk…
+[INFO] Setting output delay to: 2
+[INFO] Setting input delay to: 2
+[INFO] Setting load to: 0.033442
+[INFO] Setting clock uncertainty to: 0.25
+[INFO] Setting clock transition to: 0.1499999999999999944488848768742172978818416595458984375
+[INFO] Setting timing derate to: 5%
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__a2111oi_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__a21boi_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__and2_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__buf_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__clkdlybuf4s15_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__clkdlybuf4s18_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__fa_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_bleeder_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkbufkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_clkinvkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_12' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_3' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_6' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_decapkapwr_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso0n_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso0p_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso1n_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputiso1p_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_inputisolatch_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrc_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_isobufsrckapwr_16' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__mux4_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__o21ai_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__o311ai_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__or2_0' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__probe_p_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__probec_p_8' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xor3_4' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_1' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_2' not found.
+[WARNING STA-0376] cell 'sky130_fd_sc_hd__xnor3_4' not found.
+[INFO] Setting RC values…
+[INFO] Setting signal min routing layer to: met1 and clock min routing layer to met1. 
+[INFO] Setting signal max routing layer to: met5 and clock max routing layer to met5. 
+[INFO GPL-0002] DBU: 1000
+[INFO GPL-0003] SiteSize: 460 2720
+[INFO GPL-0004] CoreAreaLxLy: 5520 10880
+[INFO GPL-0005] CoreAreaUxUy: 90620 95200
+[INFO GPL-0006] NumInstances: 448
+[INFO GPL-0007] NumPlaceInstances: 287
+[INFO GPL-0008] NumFixedInstances: 161
+[INFO GPL-0009] NumDummyInstances: 0
+[INFO GPL-0010] NumNets: 322
+[INFO GPL-0011] NumPins: 960
+[INFO GPL-0012] DieAreaLxLy: 0 0
+[INFO GPL-0013] DieAreaUxUy: 96580 107300
+[INFO GPL-0014] CoreAreaLxLy: 5520 10880
+[INFO GPL-0015] CoreAreaUxUy: 90620 95200
+[INFO GPL-0016] CoreArea: 7175632000
+[INFO GPL-0017] NonPlaceInstsArea: 356592000
+[INFO GPL-0018] PlaceInstsArea: 3658508800
+[INFO GPL-0019] Util(%): 53.65
+[INFO GPL-0020] StdInstsArea: 3658508800
+[INFO GPL-0021] MacroInstsArea: 0
+[InitialPlace]  Iter: 1 CG residual: 0.00000010 HPWL: 5547960
+[InitialPlace]  Iter: 2 CG residual: 0.00000010 HPWL: 4838048
+[InitialPlace]  Iter: 3 CG residual: 0.00000011 HPWL: 4606742
+[InitialPlace]  Iter: 4 CG residual: 0.00000011 HPWL: 4539823
+[InitialPlace]  Iter: 5 CG residual: 0.00000012 HPWL: 4518378
+[INFO GPL-0031] FillerInit: NumGCells: 321
+[INFO GPL-0032] FillerInit: NumGNets: 322
+[INFO GPL-0033] FillerInit: NumGPins: 960
+[INFO GPL-0023] TargetDensity: 0.60
+[INFO GPL-0024] AveragePlaceInstArea: 12747417
+[INFO GPL-0025] IdealBinArea: 21245694
+[INFO GPL-0026] IdealBinCnt: 337
+[INFO GPL-0027] TotalBinArea: 7175632000
+[INFO GPL-0028] BinCnt: 16 16
+[INFO GPL-0029] BinSize: 5319 5270
+[INFO GPL-0030] NumBins: 256
+[NesterovSolve] Iter: 1 overflow: 0.830949 HPWL: 2054404
+[NesterovSolve] Iter: 10 overflow: 0.794473 HPWL: 2155118
+[INFO GPL-0100] worst slack 6.83e-09
+[INFO GPL-0103] Weighted 32 nets.
+[NesterovSolve] Iter: 20 overflow: 0.771011 HPWL: 2161423
+[NesterovSolve] Iter: 30 overflow: 0.777134 HPWL: 2191365
+[NesterovSolve] Iter: 40 overflow: 0.783565 HPWL: 2179628
+[NesterovSolve] Iter: 50 overflow: 0.780673 HPWL: 2172518
+[NesterovSolve] Iter: 60 overflow: 0.777811 HPWL: 2176003
+[NesterovSolve] Iter: 70 overflow: 0.779062 HPWL: 2178869
+[NesterovSolve] Iter: 80 overflow: 0.779771 HPWL: 2176856
+[NesterovSolve] Iter: 90 overflow: 0.778144 HPWL: 2174627
+[NesterovSolve] Iter: 100 overflow: 0.776564 HPWL: 2174412
+[NesterovSolve] Iter: 110 overflow: 0.775541 HPWL: 2173530
+[NesterovSolve] Iter: 120 overflow: 0.773375 HPWL: 2171587
+[NesterovSolve] Iter: 130 overflow: 0.76908 HPWL: 2171021
+[NesterovSolve] Iter: 140 overflow: 0.762277 HPWL: 2170943
+[NesterovSolve] Iter: 150 overflow: 0.749875 HPWL: 2169028
+[NesterovSolve] Iter: 160 overflow: 0.73956 HPWL: 2167874
+[NesterovSolve] Iter: 170 overflow: 0.729135 HPWL: 2184485
+[NesterovSolve] Iter: 180 overflow: 0.705706 HPWL: 2236621
+[NesterovSolve] Iter: 190 overflow: 0.681932 HPWL: 2312544
+[NesterovSolve] Iter: 200 overflow: 0.634111 HPWL: 2416883
+[INFO GPL-0100] worst slack 6.83e-09
+[INFO GPL-0103] Weighted 32 nets.
+[NesterovSolve] Snapshot saved at iter = 208
+[NesterovSolve] Iter: 210 overflow: 0.591318 HPWL: 2473620
+[NesterovSolve] Iter: 220 overflow: 0.54373 HPWL: 2540514
+[NesterovSolve] Iter: 230 overflow: 0.484028 HPWL: 2611793
+[INFO GPL-0100] worst slack 6.51e-09
+[INFO GPL-0103] Weighted 32 nets.
+[NesterovSolve] Iter: 240 overflow: 0.417647 HPWL: 2659618
+[NesterovSolve] Iter: 250 overflow: 0.370793 HPWL: 2705604
+[NesterovSolve] Iter: 260 overflow: 0.347457 HPWL: 2782254
+[NesterovSolve] Iter: 270 overflow: 0.336145 HPWL: 2801610
+[NesterovSolve] Iter: 280 overflow: 0.313936 HPWL: 2796166
+[NesterovSolve] Iter: 290 overflow: 0.297996 HPWL: 2831747
+[INFO GPL-0100] worst slack 6.92e-09
+[INFO GPL-0103] Weighted 31 nets.
+[NesterovSolve] Iter: 300 overflow: 0.279087 HPWL: 2852077
+[NesterovSolve] Iter: 310 overflow: 0.259497 HPWL: 2883152
+[NesterovSolve] Iter: 320 overflow: 0.239501 HPWL: 2907530
+[NesterovSolve] Iter: 330 overflow: 0.212645 HPWL: 2938564
+[INFO GPL-0100] worst slack 6.9e-09
+[INFO GPL-0103] Weighted 32 nets.
+[INFO GPL-0075] Routability numCall: 1 inflationIterCnt: 1 bloatIterCnt: 0
+[INFO GPL-0036] TileLxLy: 0 0
+[INFO GPL-0037] TileSize: 6900 6900
+[INFO GPL-0038] TileCnt: 13 15
+[INFO GPL-0039] numRoutingLayers: 6
+[INFO GPL-0040] NumTiles: 195
+[INFO GPL-0063] TotalRouteOverflowH2: 0
+[INFO GPL-0064] TotalRouteOverflowV2: 0
+[INFO GPL-0065] OverflowTileCnt2: 0
+[INFO GPL-0066] 0.5%RC: 1
+[INFO GPL-0067] 1.0%RC: 0.9666666587193807
+[INFO GPL-0068] 2.0%RC: 0.9083333412806193
+[INFO GPL-0069] 5.0%RC: 0.8637931182466704
+[INFO GPL-0070] 0.5rcK: 1
+[INFO GPL-0071] 1.0rcK: 1
+[INFO GPL-0072] 2.0rcK: 0
+[INFO GPL-0073] 5.0rcK: 0
+[INFO GPL-0074] FinalRC: 0.98333335
+[NesterovSolve] Iter: 340 overflow: 0.189505 HPWL: 2978245
+[NesterovSolve] Iter: 350 overflow: 0.167464 HPWL: 3001019
+[INFO GPL-0100] worst slack 6.91e-09
+[INFO GPL-0103] Weighted 32 nets.
+[NesterovSolve] Iter: 360 overflow: 0.13894 HPWL: 3032781
+[NesterovSolve] Iter: 370 overflow: 0.118994 HPWL: 3069599
+[NesterovSolve] Finished with Overflow: 0.099126
+[INFO] Setting RC values…
+Setting global connections for newly added cells…
+[INFO] Setting global connections...
+Writing OpenROAD database to '/content/openlane_run/7-openroad-globalplacement/spm.odb'…
+Writing netlist to '/content/openlane_run/7-openroad-globalplacement/spm.nl.v'…
+Writing powered netlist to '/content/openlane_run/7-openroad-globalplacement/spm.pnl.v'…
+Writing layout to '/content/openlane_run/7-openroad-globalplacement/spm.def'…
+Writing timing constraints to '/content/openlane_run/7-openroad-globalplacement/spm.sdc'…
