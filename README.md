@@ -102,9 +102,7 @@ endmodule
 <img width="530" alt="Config" src="https://github.com/akarxxx1030/pes_karatsuba_multiplier/assets/102870828/eae2ce7a-2f51-480f-b1d2-82c0c348945e">
 
 
-### Screenshots:
-- [Screenshot 1: RTL Design of Karatsuba Multiplier]
-![Screenshot 1: RTL Design of Karatsuba Multiplier](insert_link_to_screenshot_1)
+
 
 ## Step 2: Synthesis
 
